@@ -1,2 +1,1 @@
-# backend-startpunk2
-Startpunkt för projekt 2
+# projekt2-startpunkt
